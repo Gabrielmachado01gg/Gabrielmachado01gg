@@ -17,8 +17,12 @@ Estudante de **Ciência da Computação** na Faculdade La Salle (Canoas, RS), co
 
 ## Projetos em destaque
 
+Portfólio: **https://gabrielmachado01gg.github.io/**
+
 | Projeto | O que é | Tecnologias |
 |---|---|---|
+| [**Fio**](https://github.com/Gabrielmachado01gg/fio) | Landing de IA para documentos, com pixel art em canvas e um modo real que roda localmente com Python e Ollama ([ver online](https://gabrielmachado01gg.github.io/fio/)) | HTML, CSS, JavaScript, Python |
+| [**Casca**](https://github.com/Gabrielmachado01gg/casca) | Garrafa térmica fictícia desenhada em canvas, que se abre em camadas conforme o scroll ([ver online](https://gabrielmachado01gg.github.io/casca/)) | Canvas, GSAP, CSS |
 | [**ProjetoFinal**](https://github.com/Gabrielmachado01gg/ProjetoFinal) | Sistema bancário de console com validação de CPF, `BigDecimal` e testes automatizados | Java 17, Maven, JUnit 5 |
 | [**Trabalho**](https://github.com/Gabrielmachado01gg/Trabalho) | Folha de pagamento com herança e polimorfismo | Java 17, Maven, JUnit 5 |
 | [**java**](https://github.com/Gabrielmachado01gg/java) | Tela de login com senha protegida por hash PBKDF2 | Java Swing, JUnit 5 |
