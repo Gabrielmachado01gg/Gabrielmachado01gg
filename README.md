@@ -29,7 +29,7 @@ Portfólio: **https://gabrielmachado01gg.github.io/**
 | [**Trabalho**](https://github.com/Gabrielmachado01gg/Trabalho) | Folha de pagamento com herança e polimorfismo | Java 17, Maven, JUnit 5 |
 | [**java**](https://github.com/Gabrielmachado01gg/java) | Tela de login com senha protegida por hash PBKDF2 | Java Swing, JUnit 5 |
 | [**Site_web**](https://github.com/Gabrielmachado01gg/Site_web) | Site responsivo e acessível de restaurante japonês ([ver online](https://gabrielmachado01gg.github.io/Site_web/)) | HTML, CSS, JavaScript |
-| [**PyGame**](https://github.com/Gabrielmachado01gg/PyGame) | NOVA DESCENT: jogo de nave 2D com 3 fases, chefão e modo cooperativo | Python, Pygame |
+| [**PyGame**](https://github.com/Gabrielmachado01gg/PyGame) | NOVA DESCENT: jogo de nave 2D com 3 fases, chefão e modo cooperativo ([jogar no navegador](https://gabrielmachado01gg.github.io/PyGame/)) | Python, Pygame, Canvas, JavaScript |
 
 ## Em foco agora
 
