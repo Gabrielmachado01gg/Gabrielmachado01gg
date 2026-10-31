@@ -23,6 +23,7 @@ Portfólio: **https://gabrielmachado01gg.github.io/**
 |---|---|---|
 | [**Fio**](https://github.com/Gabrielmachado01gg/fio) | Landing de IA para documentos, com pixel art em canvas e um modo real que roda localmente com Python e Ollama ([ver online](https://gabrielmachado01gg.github.io/fio/)) | HTML, CSS, JavaScript, Python |
 | [**Casca**](https://github.com/Gabrielmachado01gg/casca) | Garrafa térmica fictícia desenhada em canvas, que se abre em camadas conforme o scroll ([ver online](https://gabrielmachado01gg.github.io/casca/)) | Canvas, GSAP, CSS |
+| [**Comanda**](https://github.com/Gabrielmachado01gg/comanda) | Agentes de IA para atendimento de delivery: triagem, tool calling, guardrails, avaliação, API e fluxo n8n ([ver online](https://gabrielmachado01gg.github.io/comanda/)) | Python, LLM, agentes, n8n |
 | [**Cobalto**](https://github.com/Gabrielmachado01gg/cobalto) | Loja de roupas fictícia em azul, com tecido simulado em tempo real em canvas ([ver online](https://gabrielmachado01gg.github.io/cobalto/)) | Canvas, física Verlet, CSS |
 | [**ProjetoFinal**](https://github.com/Gabrielmachado01gg/ProjetoFinal) | Sistema bancário de console com validação de CPF, `BigDecimal` e testes automatizados | Java 17, Maven, JUnit 5 |
 | [**Trabalho**](https://github.com/Gabrielmachado01gg/Trabalho) | Folha de pagamento com herança e polimorfismo | Java 17, Maven, JUnit 5 |
