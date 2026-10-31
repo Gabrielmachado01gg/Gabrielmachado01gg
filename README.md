@@ -37,4 +37,4 @@ Portfólio: **https://gabrielmachado01gg.github.io/**
 
 ## Contato
 
-- LinkedIn: [gabriel-wiedenhoft-machado](https://www.linkedin.com/in/gabriel-wiedenhoft-8a3256286)
+- LinkedIn: [gabriel-wiedenhoft-8a3256286](https://www.linkedin.com/in/gabriel-wiedenhoft-8a3256286)
